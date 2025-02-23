@@ -2,14 +2,15 @@
 
 ## Supported Versions
 
-The versions of StreamJet (Desktop, Web, and Mobile) that have a checkmark are currently supported by minty's experiment lab. The ones with an X are not. 1.2.x will stay in supported status until StreamJet Desktop 1.4.x (if I manage to keep developing StreamJet) but for now, it's still supported and still is the latest version.
+The versions of StreamJet (Desktop, Web, and Mobile) that have a checkmark are currently supported by minty's experiment lab. The ones with an X are not. 1.2.1 will stay in supported status until StreamJet Desktop 1.4.x (if I manage to keep developing StreamJet) but for now, it's still supported and still is the latest version.
 
 
 ## Desktop builds
 | Version | Supported          |
 | ------- | ------------------ |
-|  1.3.x  | :white_check_mark: |
-|  1.2.x  | :white_check_mark: |
+|  1.3.0  | :white_check_mark: |
+|  1.2.1  | :white_check_mark: |
+|  1.2.0  | :x: |
 |  1.1.x   | :x:                |
 |  PRE 1.0.x   | :x:                |
 
